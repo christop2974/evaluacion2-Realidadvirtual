@@ -1,0 +1,102 @@
+﻿#include "pch-c.h"
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void RotateStand_Update_mDF3AB9A994482F3BA70BE02093E162D2400CC111 (void);
+extern void RotateStand__ctor_mBAEADCF0A8972FAF0809227017A1F133641B6528 (void);
+extern void Readme__ctor_m69C325C4C171DCB0312B646A9034AA91EA8C39C6 (void);
+extern void Section__ctor_m5F732533E4DFC0167D965E5F5DB332E46055399B (void);
+extern void AnimalController_Start_mBC198728907DFCC9F8A0979A0725BAA6E598691D (void);
+extern void AnimalController_Update_mF98FB1D04DF34CF38CFDA4B211E9534BEFFA65E5 (void);
+extern void AnimalController_OnCollisionEnter_mCA691D36C749F71D2F696206BB45A026CD234C4D (void);
+extern void AnimalController_SpinMeRound_m6B34F32F052CD1BF0DCDE759BA616DC534A66159 (void);
+extern void AnimalController_TimeToPeck_m9896464206A0655BE1CB0702BEDD6FE08D72EF73 (void);
+extern void AnimalController__ctor_mFDD149578962140336CF60C177FC2A3C1259C124 (void);
+extern void U3CSpinMeRoundU3Ed__16__ctor_mC05DC83D08DD479E8450927E64C93D36E88D2137 (void);
+extern void U3CSpinMeRoundU3Ed__16_System_IDisposable_Dispose_m10191C93914794E7EE7784E4D8EF948805EB4FA3 (void);
+extern void U3CSpinMeRoundU3Ed__16_MoveNext_m5167C44966440217FE12BA79E854B5B9EB623E93 (void);
+extern void U3CSpinMeRoundU3Ed__16_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m2A514A8E1C1DEC423D2050783D64E34E11F3635B (void);
+extern void U3CSpinMeRoundU3Ed__16_System_Collections_IEnumerator_Reset_m6BD609D888C792E2844C4526DD7370401EB852C8 (void);
+extern void U3CSpinMeRoundU3Ed__16_System_Collections_IEnumerator_get_Current_mB2F2AB4E0963BD1D725380BCC482E8ADB164D71C (void);
+extern void U3CTimeToPeckU3Ed__17__ctor_mFE3F9F1E77F5D02D9B13F43830F5EF6C29793F8F (void);
+extern void U3CTimeToPeckU3Ed__17_System_IDisposable_Dispose_m8FF7B635D8605BB13FA585636F371B3380660310 (void);
+extern void U3CTimeToPeckU3Ed__17_MoveNext_mFB461661C0C0B82D3A7ABE0A0B43A7247FA62B9B (void);
+extern void U3CTimeToPeckU3Ed__17_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mA1D380BD1E9265BC08EF575FFBFAF84BB27C5C15 (void);
+extern void U3CTimeToPeckU3Ed__17_System_Collections_IEnumerator_Reset_m018B5351DAB4DFE628EF3F99B0B731853F561C61 (void);
+extern void U3CTimeToPeckU3Ed__17_System_Collections_IEnumerator_get_Current_mEEAAB8E394CFCCB0FB923A5902B43523A169B878 (void);
+static Il2CppMethodPointer s_methodPointers[22] = 
+{
+	RotateStand_Update_mDF3AB9A994482F3BA70BE02093E162D2400CC111,
+	RotateStand__ctor_mBAEADCF0A8972FAF0809227017A1F133641B6528,
+	Readme__ctor_m69C325C4C171DCB0312B646A9034AA91EA8C39C6,
+	Section__ctor_m5F732533E4DFC0167D965E5F5DB332E46055399B,
+	AnimalController_Start_mBC198728907DFCC9F8A0979A0725BAA6E598691D,
+	AnimalController_Update_mF98FB1D04DF34CF38CFDA4B211E9534BEFFA65E5,
+	AnimalController_OnCollisionEnter_mCA691D36C749F71D2F696206BB45A026CD234C4D,
+	AnimalController_SpinMeRound_m6B34F32F052CD1BF0DCDE759BA616DC534A66159,
+	AnimalController_TimeToPeck_m9896464206A0655BE1CB0702BEDD6FE08D72EF73,
+	AnimalController__ctor_mFDD149578962140336CF60C177FC2A3C1259C124,
+	U3CSpinMeRoundU3Ed__16__ctor_mC05DC83D08DD479E8450927E64C93D36E88D2137,
+	U3CSpinMeRoundU3Ed__16_System_IDisposable_Dispose_m10191C93914794E7EE7784E4D8EF948805EB4FA3,
+	U3CSpinMeRoundU3Ed__16_MoveNext_m5167C44966440217FE12BA79E854B5B9EB623E93,
+	U3CSpinMeRoundU3Ed__16_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m2A514A8E1C1DEC423D2050783D64E34E11F3635B,
+	U3CSpinMeRoundU3Ed__16_System_Collections_IEnumerator_Reset_m6BD609D888C792E2844C4526DD7370401EB852C8,
+	U3CSpinMeRoundU3Ed__16_System_Collections_IEnumerator_get_Current_mB2F2AB4E0963BD1D725380BCC482E8ADB164D71C,
+	U3CTimeToPeckU3Ed__17__ctor_mFE3F9F1E77F5D02D9B13F43830F5EF6C29793F8F,
+	U3CTimeToPeckU3Ed__17_System_IDisposable_Dispose_m8FF7B635D8605BB13FA585636F371B3380660310,
+	U3CTimeToPeckU3Ed__17_MoveNext_mFB461661C0C0B82D3A7ABE0A0B43A7247FA62B9B,
+	U3CTimeToPeckU3Ed__17_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mA1D380BD1E9265BC08EF575FFBFAF84BB27C5C15,
+	U3CTimeToPeckU3Ed__17_System_Collections_IEnumerator_Reset_m018B5351DAB4DFE628EF3F99B0B731853F561C61,
+	U3CTimeToPeckU3Ed__17_System_Collections_IEnumerator_get_Current_mEEAAB8E394CFCCB0FB923A5902B43523A169B878,
+};
+static const int32_t s_InvokerIndices[22] = 
+{
+	11219,
+	11219,
+	11219,
+	11219,
+	11219,
+	11219,
+	8351,
+	10738,
+	10738,
+	11219,
+	8528,
+	11219,
+	10772,
+	10738,
+	11219,
+	10738,
+	8528,
+	11219,
+	10772,
+	10738,
+	11219,
+	10738,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	22,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
